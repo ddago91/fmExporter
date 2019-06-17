@@ -11,15 +11,43 @@ if($password===$currentPwd){
 	$doc = new DOMDocument();
 
 	$doc->loadHTML($homepage);
+	$dir = '../clubs';
+	$it = new RecursiveDirectoryIterator($dir, RecursiveDirectoryIterator::SKIP_DOTS);
+	$files = new RecursiveIteratorIterator($it,
+	             RecursiveIteratorIterator::CHILD_FIRST);
+	foreach($files as $file) {
+	    if ($file->isDir()){
+	        rmdir($file->getRealPath());
+	    } else {
+	        unlink($file->getRealPath());
+	    }
+	}
+
 
 	$ols = $doc->getElementsByTagName('table');
-
-	foreach ($ols as $ol) {
+	$titleColumn=[];
+	foreach ($ols as  $ol) {
 		$nodes = $ol->getElementsByTagName('tr');
-		foreach ($nodes as $node) {
+		foreach ($nodes as $keytest =>$node) {
+			$head=$node->getElementsByTagName('th');
+			foreach ($head as $keyTh => $th) {
+				$titleColumn[]=trim($th->nodeValue);
+			}
 			$row=$node->getElementsByTagName('td');
-			foreach ($row as $td) {
-				echo trim($td->nodeValue)."<br>";
+
+			foreach ($row as $key => $td) {
+				if($key===array_search('Club', $titleColumn)){
+					echo trim($td->nodeValue)."<br>";
+
+					$my_file = '../clubs/'.$td->nodeValue.'.html';
+					//$handle = fopen($my_file, 'w') or die('Cannot open file:  '.$my_file); 
+					file_put_contents($my_file, $td->nodeValue.PHP_EOL , FILE_APPEND | LOCK_EX);
+					//fwrite($handle, $td->nodeValue.$keytest);
+					//fclose($handle);
+
+					//$newcontent = file_get_contents("template.html");
+				}
+
 			}	
 
 		}
