@@ -6,12 +6,15 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
 	<link rel="stylesheet" href="https://cdn.datatables.net/1.10.18/css/dataTables.bootstrap4.min.css">
+	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/dt-1.10.18/b-1.5.6/b-colvis-1.5.6/datatables.min.css"/>
 </head>
 <body>
 	<div class="container">
 		<div class="row">
 			<div class="col">
 				<?php
+				require('admin/columns.config.php');
+
 				$uri_path = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
 				$uri_segments = explode('/', $uri_path);
 
@@ -24,6 +27,10 @@
 
 					case 'club':
 					require('pages/club.php');
+					break;
+
+					case 'player':
+					require('pages/player.php');
 					break;
 
 					default:
@@ -45,6 +52,7 @@
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 	<script src="https://cdn.datatables.net/1.10.18/js/jquery.dataTables.min.js"></script>
 	<script src="https://cdn.datatables.net/1.10.18/js/dataTables.bootstrap4.min.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/v/bs4/dt-1.10.18/b-1.5.6/b-colvis-1.5.6/datatables.min.js"></script>
 
 	<script>
 		$('#validatedCustomFile').on('change',function(){
@@ -56,8 +64,82 @@
     </script>
 
     <script type="text/javascript" charset="utf-8">
+    	var skillsCols = [ 7,8,9 ];
+    	var language = {
+		            "lengthMenu": "Mostro _MENU_ righe per pagina",
+		            "zeroRecords": "Nessun risultato",
+		            "info": "Mostro la pagina _PAGE_ of _PAGES_",
+		            "infoEmpty": "Nessun risultato disponibile",
+		            "infoFiltered": "(filtrato da _MAX_ righe totali)",
+
+				    "emptyTable":     "Nessun dato disponibile nella tabella",
+				    "thousands":      ".",
+				    "loadingRecords": "Caricamento...",
+				    "processing":     "Caricamento...",
+				    "search":         "Ricerca:",
+				    "paginate": {
+				        "first":      "Prima",
+				        "last":       "Ultima",
+				        "next":       "Prossima",
+				        "previous":   "Precedente"
+				    },
+				    "aria": {
+				        "sortAscending":  ": attiva l'ordinamento ascendente",
+				        "sortDescending": ": attiva l'ordinamento discendente"
+				    }
+		        };
+
 		$(document).ready(function() {
-		    $('#teamTable').DataTable();
+		    $('#clubTable').DataTable({
+		    	// dom: 'Bfrtip',
+		    	"columnDefs": [
+		            {
+		                "targets": skillsCols,
+		                "visible": false,
+		                "searchable": false
+		            }
+		        ],
+		    	// buttons: [
+		     //        {
+		     //            extend: 'colvisGroup',
+		     //            text: 'Nascondo Skills',
+		     //            show: [  ],
+		     //            hide: skillsCols
+		     //        },
+		     //        {
+		     //            extend: 'colvisGroup',
+		     //            text: 'Mostro Skills',
+		     //            show: skillsCols,
+		     //            hide: [  ]
+		     //        },
+		     //    ],
+		        "language": language
+		    });
+		    $('#playerTable').DataTable({
+		    	// dom: 'Bfrtip',
+		    	// "columnDefs": [
+		     //        {
+		     //            "targets": skillsCols,
+		     //            "visible": false,
+		     //            "searchable": false
+		     //        }
+		     //    ],
+		    	// buttons: [
+		     //        {
+		     //            extend: 'colvisGroup',
+		     //            text: 'Nascondo Skills',
+		     //            show: [  ],
+		     //            hide: skillsCols
+		     //        },
+		     //        {
+		     //            extend: 'colvisGroup',
+		     //            text: 'Mostro Skills',
+		     //            show: skillsCols,
+		     //            hide: [  ]
+		     //        },
+		     //    ],
+		        "language": language
+		    });
 		} );
 	</script>
 </body>

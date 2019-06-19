@@ -1,4 +1,7 @@
 <?php
+
+require('columns.config.php');
+
 //$currentPwd='80cbbe57c80791e76fc1814c32f2f43fe7a7f7087376dac13b27ca388b8c5f72bf3a10400f4a4c354d9888a025deccd63dd491036c76341e299672f6fccf8a6a'; //FmExport2019!
 $currentPwd = '0a9fe7cc173c53cb7c7449a9bedf4512053dca33d219ff2aba6afa759f5bbac273b38cd0194a2c7c69bf28cf9ad78d060bbcad84ee5a40fc483603677028b580'; //pollo
 $players = $_POST['players'];
@@ -29,11 +32,25 @@ if($password===$currentPwd){
 
 	foreach ($rows as $player) {
 		$cols = explode("\t", $player);
-		$club = trim($cols[11]);
+		if(!$cols || empty($cols) || !isset($cols[1]) || $cols[0] == ' ' || $cols[0] == '') continue;
+
+		$club = trim($cols[$config['columns']['Club']]);
 		// squadra colonna 5
 		$my_file = '../clubs/'.$club.'.html';
+
+		$content = '<tr>';
+		foreach ($cols as $index => $col) {
+			if (0 == $index) {
+				$content .= '<td><a href="/player/'.$club.'/'.$col.'">'.$col.'</a></td>';
+			} else {
+				$content .= "<td>$col</td>";
+			}
+		}
+		$content .= '</tr>';
+
 		// nome colonna 0
-		file_put_contents($my_file, $cols[0].' ('.$club.')'.PHP_EOL , FILE_APPEND | LOCK_EX);
+		file_put_contents($my_file, $content, FILE_APPEND | LOCK_EX);
+		// file_put_contents($my_file, $cols[0].' ('.$club.')'.PHP_EOL , FILE_APPEND | LOCK_EX);
 	}
 
 }else{

@@ -1,4 +1,4 @@
-<form action="admin/admin_textarea.php" method="POST" enctype="multipart/form-data">
+<form action="/admin/admin_textarea.php" method="POST" enctype="multipart/form-data">
   <div class="form-row">
     <div class="form-group col-12">
       <label >Esportazione FMRTE</label>

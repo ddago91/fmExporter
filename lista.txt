@@ -1,0 +1,485 @@
+Adriano Montalto	30	Italia	847102	S 	64,76	65,51	12	13	12	False	Cremonese
+Agostino Camigliano	24	Italia	71735	D C	63,94	68,01	13	12	14	False	Cittadella
+Agostino Garofalo	34	Italia	72244	D/WB/M L	62,62	62,62	8	13	13	False	Venezia Football Club
+Ahmad Benali	26	Libia,Inghilterra	2448401	M/AM LC	65,23	68,04	11	12	13	False	Crotone
+Alan Empereur	24	Brasile,Italia	777045	D LC	63,58	67,96	12	12	12	False	Verona
+Albano Bizzarri	40	Argentina,Italia	46444	GK 	65	65	13	14	11	False	Foggia
+Alberto Almici	25	Italia	696669	D/WB/M R	63,94	68,63	11	11	13	True	Atalanta
+Alberto Aquilani	34	Italia	130364	M C	61,11	61,11	12	12	9	False	Benevento
+Alberto Boniotti	23	Italia	46971	D/WB R	53,94	58,31	10	10	9	False	Brescia
+Alberto Brignoli	27	Italia	1085324	GK 	62,78	66,93	10	14	11	False	Palermo
+Alberto De Francesco	24	Italia	90914	M C	61,67	69,17	11	12	11	False	Spezia
+Alberto Gerbo	28	Italia	687648	D/WB/M RLC	62,63	62,63	12	11	12	False	Foggia
+Alberto Paleari	26	Italia	324553	GK 	59,56	63,12	10	12	12	False	Cittadella
+Alberto Pomini	37	Italia	29037	GK 	63,94	63,94	12	12	12	False	Palermo
+Alberto Rizzo	21	Italia	146144	D/WB L	61,27	67,2	13	12	12	False	Cittadella
+Alejandro Rodríguez	27	Spagna	2077484	S 	65,79	70,12	15	15	15	True	Chievo
+Aleksandar Tonev	28	Bulgaria	1380056	M/AM RL	59,88	60,5	12	10	10	False	Palermo
+Aleksandar Trajkovski	26	Repubblica di Macedonia	2217376	AM/S RLC	62,43	64,93	10	11	7	False	Palermo
+Ales Mateju	22	Repubblica Ceca	4012290	D/WB RL	65,39	71,33	11	11	14	True	Brighton and Hove Albion
+Alessandro Bacci	23	Italia	97170	GK 	55,33	61,86	3	8	10	False	Ascoli Picchio
+Alessandro Bernardini	31	Italia	384327	D C	66,06	67,89	11	12	13	False	Salernitana
+Alessandro Bruno	35	Italia	21827	DM/M C	59,87	59,87	15	13	14	False	Pescara
+Alessandro Buongiorno	19	Italia	473311	D C	59,92	70,55	10	13	10	True	Torino
+Alessandro Caparco	35	Italia	107061	GK 	57,89	57,89	9	12	12	False	Atletico Villarosa
+Alessandro Capello	22	Italia	853980	AM/S C	61,79	66,79	10	12	9	True	Cagliari
+Alessandro Crescenzi	27	Italia	1641526	D/WB RL	59,87	63,62	11	12	13	False	Verona
+Alessandro Diamanti	35	Italia	34733	AM RLC	63,91	63,91	15	13	12	False	Livorno
+Alessandro Favaro	23	Italia	87592	GK 	55,28	60,02	10	11	10	False	Padova
+Alessandro Ligi	28	Italia	335121	D C	67,4	69,9	12	11	14	True	Carpi
+Alessandro Longhi	29	Italia	834579	D/WB/M L	62,29	66,98	12	13	12	False	Padova
+Alessandro Martinelli	25	Svizzera,Italia	650978	DM/M LC	61,51	63,39	8	13	10	False	Brescia
+Alessandro Micai	25	Italia	1393987	GK 	62,56	67,6	9	10	12	False	Salernitana
+Alessandro Rosina	34	Italia	37109	AM RLC	62,41	62,41	10	10	10	False	Salernitana
+Alessandro Rossi	21	Italia	1175442	S 	62,62	74,06	14	13	12	True	Lazio
+Alessandro Salvi	30	Italia	836601	D/WB R	63,66	63,85	15	13	11	False	Palermo
+Alessandro Tripaldelli	19	Italia	60963	D/WB L	50,29	59,66	6	9	9	True	Sassuolo
+Alessandro Tuia	28	Italia	981102	D RC	65,7	70,38	12	15	11	False	Benevento
+Alessio da Cruz	21	Olanda	2004346	M/AM RL	64,21	68,28	12	13	12	True	Parma
+Alessio Sabbione	26	Italia	890985	D/DM RC	66,06	68,56	14	13	14	False	Carpi
+Alex Cordaz	35	Italia	294134	GK 	65,22	65,22	10	11	13	False	Crotone
+Álex Robles	19	Spagna	2352509	D/WB RC	61,33	68,21	10	13	12	False	Atletico Villarosa
+Alfredo Donnarumma	27	Italia	2307929	S 	66,4	67,94	13	12	13	False	Brescia
+Amato Ciciretti	24	Italia	3362053	AM RC	66,2	72,76	10	14	12	True	Napoli
+Amedeo Benedetti	27	Italia	485748	D/WB L	59,73	60,62	16	14	12	False	Cittadella
+André Anderson	19	Brasile,Italia	770393	AM/S C	64,26	70,93	8	8	9	True	Lazio
+Andrea Accardi	23	Italia	359372	D RC	64,1	70,04	15	11	15	False	Palermo
+Andrea Arrighini	28	Italia	1016394	AM/S R	63,08	64,63	9	13	12	False	Carpi
+Andrea Arrigoni	30	Italia	169675	DM/M C	62,73	64,91	11	13	11	False	Lecce
+Andrea Barberis	24	Italia	2340319	DM/M C	62,25	67,25	11	13	11	False	Crotone
+Andrea Bianchimano	21	Italia	319894	S 	63,8	72,45	10	12	13	False	Spezia
+Andrea Bussaglia	21	Italia	76974	M/AM RL	59,82	67,01	9	12	12	False	Cittadella
+Andrea Costa	32	Italia	206792	D LC	63,38	66	14	11	9	False	Benevento
+Andrea Gasbarro	23	Italia	228393	D RLC	61,83	65,89	8	14	12	False	Livorno
+Andrea Hristov	19	Bulgaria	157388	D C	61,16	70,53	13	11	13	True	Slavia Sofia
+Andrea La Mantia	27	Italia	1517336	S 	65,07	69,4	11	12	12	False	Lecce
+Andrea Luci	33	Italia	103623	DM/M C	65,33	65,33	18	13	14	False	Livorno
+Andrea Marcucci	19	Italia	88562	DM/M C	58,55	70,43	14	11	12	False	Foggia
+Andrea Mazzarani	28	Italia	348105	M/AM RC	61,77	66,14	8	13	10	False	Salernitana
+Andrea Nalini	28	Italia	2300127	AM RLC	64,21	66,71	13	11	11	False	Crotone
+Andrea Saraniti	30	Italia	58043	S 	58,49	60,07	12	9	9	False	Lecce
+Andrea Schenetti	27	Italia	1276313	DM/M/AM C	65,33	67,52	12	13	13	False	Cittadella
+Andrea Schiavone	25	Italia	741689	DM/M C	63,26	65,45	9	11	10	False	Venezia Football Club
+Andrea Settembrini	26	Italia	432882	DM/M C	63,16	64,72	13	13	13	False	Cittadella
+Andrea Tozzo	26	Italia	145692	GK 	59,89	61,08	10	12	10	True	Sampdoria
+Andrea Tripicchio	22	Italia	135745	AM/S R	56,05	62,3	6	8	10	False	Crotone
+Andrés Schetino	24	Uruguay,Italia	2073972	DM/M RC	59,01	66,51	15	8	10	True	Fiorentina
+Andrés Tello	22	Colombia	2962345	DM/M RC	63,87	70,12	11	13	12	False	Benevento
+Andrew Gravillon	20	Guadalupa,Francia,Italia	1833167	D C	66,01	66,01	12	11	12	True	Inter
+Andrey Galabinov	29	Bulgaria	1757648	S 	66,45	67,05	12	14	14	False	Spezia
+Andries Noppert	24	Olanda	111976	GK 	63,28	65,65	12	11	12	False	Foggia
+Angelo Corsi	29	Italia	496110	D/WB/M R	60,88	61,49	12	12	11	False	Cosenza
+Aníbal Capela	27	Portogallo	210464	D C	64,82	68,26	13	13	10	True	Carpi
+Aniello Salzano	27	Italia	486923	DM/M C	62,29	66,35	11	12	11	True	Ternana
+Anton Kresic	22	Croazia	157044	D C	65,85	73,04	14	11	13	True	Atalanta
+Antonino Ragusa	28	Italia	3856609	AM L	64,48	67,92	8	13	11	True	Sassuolo
+Antonio Balzano	32	Italia	437793	D/WB RL	64,05	65,55	15	13	13	False	Pescara
+Antonio Caracciolo	28	Italia	1088010	D/WB RC	64,87	67,37	12	13	12	True	Verona
+Antonio Di Gaudio	29	Italia	5953249	M/AM RL	66,46	67,27	13	12	12	True	Parma
+Antonio Fiordilino	22	Italia	529384	DM/M RLC	62,54	70,35	12	11	12	False	Palermo
+Antonio Marino	30	Italia	58295	D LC	62	66,06	13	14	11	False	Lecce
+Antonio Mazzotta	29	Italia	770683	D/WB L	62,45	64,01	12	10	10	False	Palermo
+Antonio Nocerino	33	Italia	213576	M C	63,84	63,84	16	13	15	False	Pescara
+Antonio Piccolo	30	Italia	954981	AM/S RLC	62,27	63,58	10	10	10	False	Cremonese
+Antonio Porcino	23	Italia	393555	D/WB/M/AM L	59,47	63,53	12	12	11	False	Livorno
+Biagio Meccariello	27	Italia	367365	D C	65,39	68,2	12	11	11	True	Brescia
+Boris Radunovic	22	Serbia	1335650	GK 	62,22	71,42	11	12	12	True	Atalanta
+Boukary Dramé	33	Senegal,Francia	194438	D/WB/M L	62,76	62,76	15	11	14	False	Livorno
+Brem Soumaoro	22	Guinea	50460	DM C	55,7	61,56	7	11	7	False	Livorno
+Bright Addae	25	Ghana	755200	DM C	66,63	71,63	14	13	14	False	Ascoli Picchio
+Bright Gyamfi	22	Ghana	1233982	D/WB RC	59,89	65,51	13	12	6	False	Benevento
+Bruno Martella	26	Italia	2697885	D/WB/M L	63,33	68,01	15	12	12	True	Crotone
+Carlos Embalo	23	Guinea-Bissau,Portogallo	1559129	M/AM RL	61,36	66,04	13	13	13	True	Palermo
+César Falletti	25	Uruguay,Italia	3180948	AM RLC	64,06	67,49	12	14	10	True	Bologna
+Cesare Bovo	35	Italia	22045	D C	62,86	62,86	12	11	11	False	Lecce
+Christian Capone	19	Italia	2958050	AM/S LC	61,5	71,18	10	10	11	True	Atalanta
+Christian Kouan	18	Costa d'Avorio	1410037	DM/M C	63,61	69,23	16	14	15	True	Fiorentina
+Christian Maggio	36	Italia	235301	D/WB/M R	66,32	66,32	13	12	14	False	Benevento
+Christian Puggioni	37	Italia	80235	GK 	60,67	60,67	10	13	12	False	Benevento
+Chumi	19	Spagna	1271305	D C	65,39	71,33	13	13	13	False	Atletico Villarosa
+Claiton	34	Brasile,Italia	77644	D C	66,68	66,68	14	13	10	False	Cremonese
+Claudio Terzi	34	Italia	160364	D C	67,55	67,55	13	15	14	False	Spezia
+Cristian Agnelli	33	Italia	149710	M C	64,93	64,93	14	14	13	False	Foggia
+Cristian Andreoni	26	Italia	80127	D R	58,68	61,18	13	12	10	False	Ascoli Picchio
+Cristian Galano	27	Italia	4671582	AM/S RC	64,3	66,49	10	10	10	True	Parma
+Cristian Ledesma	36	Italia,Argentina	48994	DM/M C	62	62	9	15	12	False	Spezia
+Cristiano Del Grosso	35	Italia	53313	D/WB/M L	61,64	61,64	13	12	14	False	Pescara
+Cristiano Lombardi	23	Italia	2443177	WB/M/AM RLC	60,85	67,41	15	12	14	True	Lazio
+Cy Goddard	21	Giappone,Inghilterra	243296	DM/M/AM C	56,41	64,54	7	9	8	False	Benevento
+Daniel Cappelletti	27	Italia	178868	D C	62,81	63,43	13	13	11	False	Padova
+Daniele Capelli	32	Italia	172605	D RC	65,13	67,1	15	13	13	False	Padova
+Daniele Croce	36	Italia	40887	M/AM LC	63,14	63,14	11	11	12	False	Cremonese
+Daniele Dessena	31	Italia	1592988	M C	65,18	67,62	15	12	14	False	Brescia
+Daniele Gastaldello	35	Italia	41192	D C	66,21	66,21	16	13	14	False	Brescia
+Daniele Lazzari	20	Italia	13078	GK 	47,39	48,87	8	4	14	False	Salernitana
+Daniele Sciaudone	30	Italia	1347944	M C	64,49	64,96	13	12	13	True	Novara
+Danilo Quaranta	21	Italia	183055	D LC	60,75	65,12	8	12	11	False	Ascoli Picchio
+Danilo Soddimo	31	Italia	938601	M/AM RLC	61,57	61,57	10	12	12	False	Cremonese
+Dario Dainelli	39	Italia	39862	D C	70,49	70,49	15	15	15	False	Livorno
+Dario Del Fabro	23	Italia	727207	D C	64,46	74,15	13	13	12	True	Juventus
+Dario Saric	21	Bosnia-Erzegovina,Italia	259233	M RLC	59,11	66,61	12	11	12	False	Carpi
+David Okereke	21	Nigeria,Italia	351239	AM/S RL	60,9	64,97	12	11	12	False	Spezia
+Davide Adorni	26	Italia	748365	D C	64,46	66,96	13	15	13	False	Cittadella
+Davide Agazzi	25	Italia	446691	DM/M C	63,26	65,13	13	12	14	False	Livorno
+Davide Bassi	33	Italia	71706	GK 	60,83	65,65	9	4	12	False	Spezia
+Davide Bettella	18	Italia	546659	D C	62,35	79,22	11	13	10	True	Atalanta
+Davide Di Gennaro	30	Italia	2820955	DM/M/AM C	66,11	67,89	12	14	13	True	Lazio
+Davide Diaw	26	Senegal,Italia	250935	S 	61,19	63,67	12	11	12	False	Cittadella
+Davide Facchin	31	Italia	112415	GK 	58,5	62,65	8	11	12	False	Venezia Football Club
+Davide Faraoni	27	Italia	2618245	D/WB/M R	62,5	65	10	11	11	True	Crotone
+Davide Frattesi	19	Italia	753711	M C	61,57	66,57	8	10	11	True	Sassuolo
+Davide Marcandella	21	Italia	152430	AM R	58,16	64,76	10	12	5	False	Padova
+Davide Marsura	24	Italia	442895	AM/S RLC	61,09	65,73	11	12	10	False	Carpi
+Davide Mazzocco	23	Italia	190473	M C	61,41	66,73	10	12	12	False	Padova
+Davide Merelli	22	Italia	138833	GK 	58,28	62,13	7	12	10	False	Padova
+Davide Riccardi	22	Italia	125694	D C	56,78	65,21	9	9	10	False	Lecce
+Deian Boldor	23	Romania	654799	D C	65,23	72,42	12	10	11	True	Verona
+Dejan Vokic	22	Slovenia	219694	DM/M C	57,07	62,69	11	12	12	False	Benevento
+Denis Drăguş	19	Romania	1747200	AM/S LC	63,52	75,71	7	13	13	False	Atletico Villarosa
+Denis Tonucci	30	Italia	798596	D C	69,41	70,97	14	13	17	False	Foggia
+Dimitri Bisoli	24	Italia	1527494	DM/M C	62,91	66,97	15	13	14	False	Brescia
+Djavan Anderson	23	Giamaica,Suriname	1657082	D/WB/M R	61,36	68,54	10	9	10	True	Lazio
+Domenico Frare	22	Italia	146695	D C	62,65	65,47	12	9	9	False	Cittadella
+Domenico Mungo	25	Italia	783396	DM/M C	60,91	61,23	11	12	12	False	Pescara
+Edoardo Lancini	24	Italia	347147	D C	64,46	69,46	13	12	12	False	Brescia
+Elhan Kastrati	21	Albania	146670	GK 	57,67	65,08	10	12	11	False	Pescara
+Elio Capradossi	22	Italia,Uganda	3339299	D C	68,02	75,52	12	15	12	True	Roma
+Emanuele Calaiò	36	Italia	60900	S 	62,83	62,83	11	14	12	False	Salernitana
+Emanuele Ndoj	21	Albania,Italia	859423	DM/M C	64,18	71,06	11	12	11	False	Brescia
+Emanuele Padella	30	Italia	354279	D C	64,56	65,19	12	12	13	False	Ascoli Picchio
+Emanuele Suagher	25	Italia	886022	D C	67,04	74,85	14	12	12	True	Atalanta
+Emanuele Terranova	31	Italia	1341794	D C	68,69	70,11	13	14	13	False	Cremonese
+Emilio Volpicelli	26	Italia	70468	S 	54,3	58,68	11	8	10	False	Salernitana
+Emmanuel Besea	21	Ghana	273110	DM C	60,13	67,94	12	10	10	True	Frosinone
+Emmanuel Gyasi	24	Ghana,Italia	194354	AM/S L	62,34	66,09	10	10	11	False	Spezia
+Emmanuele Cicerelli	24	Italia	146375	AM/S RL	59,61	62,74	12	12	10	True	Salernitana
+Enej Jelenic	25	Slovenia	571468	M/AM RL	60,4	64,15	12	11	13	False	Carpi
+Enrico Alfonso	30	Italia	999996	GK 	62,72	63,02	6	12	11	False	Brescia
+Enrico Baldini	21	Italia	180931	AM RL	57,32	65,13	10	11	10	False	Ascoli Picchio
+Enrico Pezzi	29	Italia	392497	D L	60,83	63,14	9	11	13	False	Carpi
+Ernesto Torregrossa	26	Italia	1085470	S 	63,88	66,6	11	14	10	False	Brescia
+Eugenio Lamanna	29	Italia	1045708	GK 	64,72	68,58	6	13	13	False	Spezia
+Eyob Zambataro	20	Etiopia,Italia	248671	D/WB/M L	58,81	62,25	12	11	10	True	Atalanta
+Fabio Concas	31	Italia	98230	M/AM RC	63,68	63,68	14	8	11	False	Carpi
+Fabio Eguelfi	23	Italia	274525	D/WB/M L	56,63	61,01	12	10	9	True	Atalanta
+Fabio Lucioni	31	Italia	1142005	D C	67,09	68,11	11	13	12	False	Lecce
+Fabio Mazzeo	35	Italia	136990	S 	64,36	64,36	8	12	12	False	Foggia
+Fabrizio Alastra	21	Italia	117544	GK 	59,22	70,5	11	10	11	False	Palermo
+Fabrizio Poli	29	Italia	1108572	D RLC	67,86	69,74	13	13	13	False	Carpi
+Federico Bonazzoli	21	Italia	2333469	S L	62,11	69,53	13	12	12	True	Sampdoria
+Federico Casarini	29	Italia	650978	DM/M C	60,96	66,43	12	11	12	True	Novara
+Federico Ermacora	18	Italia	85851	D/WB LC	51,38	66,38	9	10	9	False	Atletico Villarosa
+Federico Melchiorri	31	Italia	1051956	S 	65,96	65,96	13	12	13	False	Atletico Villarosa
+Federico Proia	22	Italia	129479	M C	61,72	66,41	10	11	10	False	Cittadella
+Federico Ricci	24	Italia	5061655	M/AM/S RLC	64,41	70,35	10	12	12	True	Sassuolo
+Federico Valietti	19	Italia	272552	D/WB RL	55,83	63,64	10	11	10	True	Genoa
+Felipe Curcio	25	Brasile,Italia	1121241	D/WB L	63,2	66,02	13	12	10	False	Brescia
+Ferdinando Del Sole	20	Italia	748452	AM RLC	58,81	68,19	10	10	10	True	Juventus
+Filip Raicevic	25	Montenegro,Serbia	722772	S 	64,05	69	10	11	11	False	Livorno
+Filippo Bandinelli	23	Italia	4087286	DM/M C	66,93	71,31	14	12	14	True	Sassuolo
+Filippo De Col	24	Italia	1143690	D R	64,27	68,64	12	12	6	False	Spezia
+Filippo Falco	26	Italia	494266	AM RC	63,56	69,81	6	10	12	False	Lecce
+Filippo Melegoni	19	Italia	1656531	DM/M C	63,51	75,7	11	13	11	False	Atletico Villarosa
+Filippo Sgarbi	20	Italia	214087	D C	61,26	64,7	11	12	12	False	Palermo
+Francesco Cernuto	26	Italia	173221	D C	60,95	62,52	11	13	8	False	Ascoli Picchio
+Francesco Cosenza	32	Italia	146341	D C	66,93	67,78	18	11	15	False	Lecce
+Francesco Deli	24	Italia	981015	M C	66,15	70,53	11	12	11	False	Foggia
+Francesco Di Mariano	22	Italia	393033	AM RC	63,19	66,63	11	10	10	False	Venezia Football Club
+Francesco Di Tacchio	28	Italia	851702	DM/M C	63,81	64,44	14	11	12	False	Salernitana
+Francesco Migliore	30	Italia,Francia	1350922	D/WB/M L	65,44	65,63	15	13	15	False	Cremonese
+Francesco Orlando	22	Italia	311536	AM RLC	60,43	68,87	10	12	10	False	Salernitana
+Francesco Renzetti	30	Italia,Monaco	414416	D/WB/M L	62,17	64,13	12	12	14	False	Cremonese
+Francesco Valiani	37	Italia	40454	DM/M/AM LC	61,61	61,61	11	14	10	False	Livorno
+Gabriel Strefezza	21	Brasile,Italia	194386	AM RL	61,25	66,25	10	12	7	True	Spal
+Gabriele Corbo	18	Italia	353259	D C	60,37	79,75	11	13	10	False	Atletico Villarosa
+Gabriele Gori	19	Italia	242402	S 	59,5	64,35	10	13	7	True	Fiorentina
+Gabriele Moncini	22	Italia	980405	S 	62,37	67,93	12	12	12	True	Spal
+Gabriele Rolando	23	Italia	1772885	D/WB/M/AM RL	56,42	62,42	14	8	8	True	Sampdoria
+Gaetano Castrovilli	21	Italia	929023	M/AM RLC	62,39	65,83	11	13	8	True	Fiorentina
+Gaetano Letizia	28	Italia	4030052	D/WB/M RL	62,48	66,55	14	13	12	False	Benevento
+Gaetano Monachello	24	Italia	894891	S 	65,65	70,96	13	13	14	True	Atalanta
+Gaspar Iñíguez	24	Argentina	1178431	DM/M C	64,17	67,29	12	12	13	True	Udinese
+Gennaro Acampora	24	Italia	213263	DM/M C	64,83	70,46	13	10	12	False	Spezia
+Gennaro Scognamiglio	31	Italia	408673	D C	66,47	68,1	14	10	10	False	Pescara
+Gennaro Tutino	22	Italia	1809309	AM/S RLC	61,46	66,78	8	10	11	True	Napoli
+George Puşcaş	22	Romania	1138292	AM/S L	63,59	70,09	9	10	10	False	Palermo
+Giacomo Beretta	26	Italia	924971	S 	64,51	66,06	11	11	13	False	Ascoli Picchio
+Giacomo Volpe	22	Italia	90291	GK 	56,83	64,55	11	9	12	False	Cremonese
+Giacomo Vrioni	20	Albania,Italia	491422	S 	60,27	64,29	9	12	8	True	Sampdoria
+Giammario Piscitella	25	Italia	129328	AM RL	59,16	63,22	12	11	10	False	Carpi
+Giampaolo Pazzini	34	Italia	759021	S 	65,73	65,73	15	14	15	False	Verona
+Gianluca Di Chiara	24	Italia	2066252	D/WB LC	62,3	66,36	11	11	12	False	Benevento
+Gianluca Litteri	30	Italia	923897	S 	66,65	67,49	13	12	13	False	Cosenza
+Gianmarco Ingrosso	29	Italia	173076	D C	65,34	68,77	11	15	12	True	Pisa
+Gianmarco Vannucchi	23	Italia	163909	GK 	56,78	64,19	10	13	13	False	Salernitana
+Gianmarco Zigoni	27	Italia	1109849	S 	65,17	68,58	10	13	12	False	Venezia Football Club
+Gianni Fabiano	34	Italia	11180	AM R	61,72	61,72	10	11	12	False	Venezia Football Club
+Gianni Munari	35	Italia	198134	M C	65,54	65,54	13	11	14	False	Verona
+Giovanni Crociata	21	Italia	1101229	M/AM LC	62,26	70,69	14	13	13	True	Crotone
+Giovanni Di Noia	24	Italia	2135734	D/WB/M LC	60,93	66,24	12	11	10	True	Chievo
+Giovanni Pinto	27	Italia	296925	D/WB L	57,7	58,01	12	12	10	True	Parma
+Giulio Maggiore	20	Italia	679928	DM/M C	63,82	71,01	12	13	12	False	Spezia
+Giuseppe Bellusci	29	Italia	1309181	D C	67,4	70,84	19	13	16	False	Palermo
+Giuseppe Cuomo	20	Italia	364230	D C	61,93	67,87	9	11	11	False	Crotone
+Giuseppe Mastinu	27	Italia	762441	AM RL	62,12	64	11	11	11	False	Spezia
+Giuseppe Panico	21	Italia	171121	S 	63,3	67,67	10	13	12	False	Cittadella
+Giuseppe Sicurella	24	Italia	173791	M/AM LC	62,53	65,97	11	11	12	False	Foggia
+Guglielmo Vicario	22	Italia	107966	GK 	57,67	61,52	9	12	10	False	Venezia Football Club
+Haitam Aleesami	27	Norvegia,Marocco	1736751	D/WB/M L	62,64	65,46	13	12	10	False	Palermo
+Henrik Bjørdal	21	Norvegia	807311	M/AM RL	60,13	64,51	11	12	9	False	Atletico Villarosa
+Hrvoje Milic	29	Croazia	1031443	D/WB/M L	62,8	66,42	11	11	9	False	Lecce
+Hugo Campagnaro	38	Argentina,Italia	36072	D C	67,14	67,14	15	13	14	False	Pescara
+Hysen Memolla	26	Albania,Italia	119500	D/WB RL	58,68	60,56	12	9	12	False	Salernitana
+Ilija Nestorovski	28	Repubblica di Macedonia	2401964	S 	65,63	67,49	16	13	13	False	Palermo
+Ivan Lanni	28	Italia	265781	GK 	61,83	67,47	8	10	10	False	Ascoli Picchio
+Ivan Rondanini	23	Italia	246155	D RC	62,4	66,15	12	11	12	False	Cremonese
+Ivaylo Chochev	25	Bulgaria	2268631	DM/M C	67,71	71,46	15	11	15	False	Palermo
+Jacopo Petriccione	23	Italia	430952	DM/M C	63,12	68,12	13	13	13	False	Lecce
+Jacopo Segre	21	Italia	490673	DM/M C	61,51	67,76	11	11	12	True	Torino
+Jaime Báez	23	Uruguay,Spagna	712927	AM/S RL	57,18	64,06	10	12	8	True	Fiorentina
+Jan Mlakar	20	Slovenia	1054995	S 	64,02	70,27	9	12	11	False	Atletico Villarosa
+Jayden Bogle	18	Inghilterra	1431543	D/WB R	62,69	67,06	9	11	10	False	Atletico Villarosa
+Jean Claude Billong	24	Camerun	392492	D C	64,05	69,36	14	12	10	True	Benevento
+Jean-Daniel Akpa Akpro	26	Costa d'Avorio,Francia	650978	D/WB/DM/M RC	61,99	66,99	12	11	13	False	Salernitana
+Jérémie Broh	21	Italia,Costa d'Avorio,Camerun	318513	DM/M C	62,19	64,69	13	12	10	True	Sassuolo
+Jerry Mbakogu	26	Nigeria,Italia	707587	S L	61,88	65,94	9	10	13	False	Padova
+Joseph Minala	22	Camerun	942965	DM/M C	63,36	71,17	14	12	11	True	Lazio
+Jure Balkovec	24	Slovenia	1537913	D/WB L	61,84	68,41	12	12	12	False	Verona
+Karamoko Cissé	29	Guinea,Italia	1979966	AM/S L	62,72	63,73	11	10	12	True	Verona
+Karim Laribi	27	Tunisia,Italia	4457855	M/AM LC	66,92	68,17	11	13	10	False	Verona
+Kastriot Dermaku	26	Albania,Italia	750193	D C	66,06	66,37	12	13	12	False	Cosenza
+Kik Pierie	18	Olanda,Stati Uniti d'America	1547404	D/WB LC	61,68	70,75	5	11	12	False	Atletico Villarosa
+Kyllan Ramé	21	Francia	73673	M C	58,7	63,39	10	10	9	False	Cremonese
+Lamin Jallow	22	Gambia	992015	AM/S RL	60,85	64,6	13	8	11	False	Salernitana
+Leandro Greco	32	Italia	373925	M/AM C	63,41	63,41	12	12	13	False	Foggia
+Ledian Memushaj	31	Albania,Italia	1306685	DM/M C	65,74	66,28	14	12	14	False	Pescara
+Leonardo Mancuso	26	Italia	4002887	M/AM RL	64,22	70,47	11	12	12	True	Juventus
+Leonardo Morosini	23	Italia	579420	AM C	65,33	74,39	9	12	10	False	Brescia
+Liam Henderson	22	Scozia	2718608	DM/M C	64,62	69,62	14	12	14	False	Verona
+Lorenzo Andrenacci	23	Italia	70603	GK 	60,89	64,75	10	11	13	False	Brescia
+Lorenzo Crisetig	25	Italia	2687727	DM/M C	65,4	67,59	9	13	13	True	Frosinone
+Lorenzo Del Pinto	28	Italia	1371436	M C	62,45	65,26	12	8	12	False	Benevento
+Lorenzo Dickmann	22	Italia	1716087	D/WB/M/AM R	60,58	68,7	11	12	11	False	Atletico Villarosa
+Lorenzo Ferrari	22	Italia	91374	GK 	53,67	65,53	11	10	9	False	Verona
+Lorenzo Laverone	29	Italia	562195	D/WB R	60,85	63,66	11	12	11	False	Ascoli Picchio
+Lorenzo Lollo	27	Italia	3266741	M/AM C	67,76	72,76	16	14	16	True	Empoli
+Lorenzo Montipò	22	Italia	899431	GK 	60,89	66,23	10	12	13	True	Novara
+Lorenzo Pasciuti	29	Italia	1220521	WB/M/AM RLC	62,73	63,55	13	12	12	False	Verona
+Lorenzo Venuti	23	Italia	2911032	D/WB RL	61,06	65,43	11	10	13	True	Fiorentina
+Luca Antei	26	Italia	1811225	D C	66,57	72,51	14	11	13	False	Benevento
+Luca Belingheri	35	Italia	20160	M/AM C	60,91	60,91	6	13	10	False	Padova
+Luca Bittante	25	Italia	568639	D/WB RL	60,44	65,44	10	11	10	False	Cosenza
+Luca Caldirola	27	Italia	700960	D LC	64,72	68,16	7	15	10	False	Benevento
+Luca Clemenza	21	Italia	630942	M/AM C	63,14	70,02	10	13	10	True	Juventus
+Luca Crecco	23	Italia	388766	WB/M/AM LC	59,42	65,36	14	9	9	False	Pescara
+Luca Garritano	24	Italia	2260331	M/AM RLC	62	66,38	15	11	12	True	Chievo
+Luca Ghiringhelli	26	Italia	233722	D/WB R	63,22	63,85	11	12	12	False	Cittadella
+Luca Lezzerini	23	Italia	274401	GK 	57,83	66,44	10	11	14	False	Venezia Football Club
+Luca Maniero	23	Italia	239921	GK 	58,28	63,02	11	11	13	False	Cittadella
+Luca Marrone	28	Italia	1106441	D/DM C	65,81	71,74	13	14	13	True	Juventus
+Luca Martinelli	29	Italia	382222	D C	66,26	66,58	11	12	13	False	Foggia
+Luca Matarese	20	Italia	1484249	AM RL	59,78	67,9	10	11	11	True	Frosinone
+Luca Mazzoni	34	Italia	81725	GK 	61,17	62,06	12	12	13	False	Livorno
+Luca Mora	30	Italia	869018	M C	66,44	68,61	20	16	15	False	Spezia
+Luca Palmiero	22	Italia	320914	DM/M C	61,81	66,5	11	9	10	True	Napoli
+Luca Parodi	23	Italia	186774	D/WB/M R	60,02	60,65	10	10	11	False	Cittadella
+Luca Ranieri	19	Italia	594443	D/WB LC	62,76	70,88	12	11	13	True	Fiorentina
+Luca Ravanelli	21	Italia	682070	D C	62,86	69,74	11	11	9	True	Sassuolo
+Luca Rizzo	26	Italia	1343003	M RLC	63,06	69,31	12	12	13	True	Bologna
+Luca Strizzolo	26	Italia	683207	S 	65,89	66,2	12	12	12	False	Cremonese
+Luca Tremolada	26	Italia	901269	M/AM RLC	64,12	67,25	8	13	12	True	Entella
+Luca Vignali	22	Italia	143225	DM/M RC	60,48	67,98	13	11	11	False	Spezia
+Lucas Chiaretti	31	Brasile,Italia	522918	M/AM LC	64,46	64,46	10	12	6	False	Foggia
+Luigi Carillo	22	Italia	264762	D C	64,15	72,59	14	11	13	True	Genoa
+Luigi Vitale	31	Italia	1331114	D/WB/M L	61,74	63,64	12	11	12	False	Verona
+Luka Bogdan	22	Croazia	684368	D C	67,09	73,03	14	13	13	False	Livorno
+Lukas Zima	24	Repubblica Ceca	143352	GK 	56,78	62,41	12	11	9	True	Genoa
+Maecky Ngombo	23	Belgio,Repubblica Democratica del Congo	170072	AM/S RL	58,87	63,12	12	9	13	False	Ascoli Picchio
+Maks Barisic	23	Slovenia	72618	M/AM/S R	60,07	67,18	10	7	10	True	Catania
+Malick Mbaye	22	Senegal	772327	DM/M C	63,89	69,2	13	12	13	True	Chievo
+Mamadou Coulibaly	19	Senegal	1842367	DM/M C	64,87	69,87	14	12	14	True	Udinese
+Manuel Iori	36	Italia	89987	DM/M C	64,37	64,37	15	12	14	False	Cittadella
+Manuel Marras	25	Italia	815263	M/AM R	62,31	66,37	15	10	10	False	Pescara
+Manuel Scavone	31	Italia	1624428	M/AM LC	63,46	63,46	10	12	12	True	Parma
+Marcello Falzerano	27	Italia	880275	M/AM RC	64,36	68,11	13	13	11	False	Atletico Villarosa
+Marco Bleve	23	Italia	138441	GK 	58,39	67,29	6	9	8	False	Lecce
+Marco Calderoni	29	Italia	648075	D/WB L	62,6	68,23	12	12	13	False	Lecce
+Marco Chiosa	24	Italia	922069	D C	64,56	70,19	15	14	12	False	Atletico Villarosa
+Marco Crimi	28	Italia	824682	DM/M C	64,83	69,2	15	13	14	False	Spezia
+Marco Festa	26	Italia	471221	GK 	57,61	59,39	9	11	12	False	Crotone
+Marco Firenze	25	Italia	1780605	M/AM RLC	63,14	65,33	13	12	11	False	Crotone
+Marco Mancosu	30	Italia	700824	M/AM LC	60,84	61,69	11	10	11	False	Lecce
+Marco Migliorini	26	Italia	349498	D RC	66,06	69,18	11	13	12	False	Salernitana
+Marco Modolo	29	Italia	697167	D C	65,18	66,43	11	13	12	False	Venezia Football Club
+Marco Moscati	25	Italia	629746	M RC	63,01	64,57	11	12	12	False	Atletico Villarosa
+Marco Perrotta	24	Italia	715452	D C	66,42	71,11	14	11	12	False	Pescara
+Marco Pinato	23	Italia	463527	WB/M LC	63,36	65,86	12	11	10	True	Sassuolo
+Marco Silvestri	27	Italia	1664774	GK 	62,94	65,32	11	13	12	False	Verona
+Marco Tumminello	19	Italia	2965015	S 	64,36	70,54	15	14	14	True	Atalanta
+Marco Zambelli	33	Italia	132929	D/WB/M R	62,4	62,4	12	13	12	False	Foggia
+Marcos Curado	23	Argentina,Italia	762000	D RC	64,67	74,04	16	12	15	True	Genoa
+Marcus Rohdén	27	Svezia	2876320	DM/M RC	65,81	67,99	14	12	12	False	Crotone
+Mariano Arini	31	Italia	772627	DM/M RC	67,14	67,75	16	15	14	False	Cremonese
+Mario Sampirisi	25	Italia	1862567	D/WB RC	66,63	69,75	10	11	14	False	Crotone
+Martin Erlic	20	Croazia	223616	D C	61,78	62,72	12	12	13	True	Sassuolo
+Massimiliano Busellato	25	Italia	629746	DM/M C	63,87	66,99	14	13	14	False	Foggia
+Massimo Coda	29	Italia	3375984	S 	67,21	69,63	10	12	13	False	Benevento
+Massimo Volta	31	Italia	1484208	D C	67,76	70,4	17	14	15	False	Benevento
+Matija Boben	24	Slovenia	528784	D C	64,25	68,63	11	12	12	True	FC Rostov
+Mato Jajalo	30	Bosnia-Erzegovina,Croazia	894924	DM/M C	65,31	66,15	12	11	12	False	Palermo
+Matteo Ardemagni	31	Italia	432630	S 	66,7	66,7	15	13	16	False	Ascoli Picchio
+Matteo Bianchetti	25	Italia	948754	D RC	66,68	72,3	13	14	14	False	Verona
+Matteo Brero	21	Italia	43883	D/WB RLC	50,54	61,16	6	6	9	False	Spezia
+Matteo Bruscagin	29	Italia	174918	D RC	62,6	63,85	12	11	7	False	Venezia Football Club
+Matteo Ciofani	30	Italia	1057705	D/WB R	66,01	69,44	13	13	13	False	Pescara
+Matteo Cortesi	21	Italia	361688	S 	60,56	67,53	13	13	13	False	Brescia
+Matteo Di Gennaro	24	Italia	268157	D RC	63,48	65,35	12	12	9	False	Livorno
+Matteo Legittimo	29	Italia	300774	D LC	59,77	61,95	13	11	11	False	Cosenza
+Matteo Ricci	24	Italia	516944	DM/M C	63,64	68,64	10	13	11	False	Spezia
+Matteo Rubin	31	Italia	139948	D/WB L	60,51	65,79	12	13	12	True	Foggia
+Mattia Finotto	25	Italia	770393	S RL	64,23	65,17	10	13	13	True	Spal
+Mattia Mustacchio	29	Italia	969435	D/WB/M R	61,89	63,11	11	11	13	False	Brescia
+Mattia Scevola	21	Italia	975	GK 	41,06	60,34	7	5	13	False	Ascoli Picchio
+Mattia Trovato	20	Italia	193643	AM RC	56,3	63,8	10	9	10	True	Fiorentina
+Mattia Vitale	21	Italia	1267213	M RLC	63,25	71,37	10	11	10	True	Spal
+Mattia Viviani	18	Italia	805381	DM/M C	61,19	72,44	12	13	12	False	Atletico Villarosa
+Mattia Zaccagni	23	Italia	958406	DM/M C	65,24	68,68	11	13	12	False	Verona
+Maurizio Domizzi	38	Italia	31363	D C	67,09	67,09	16	14	14	False	Venezia Football Club
+Mauro Coppolaro	21	Italia	832025	D RC	64,56	71,75	15	12	13	True	Udinese
+Mauro Vigorito	28	Italia	762296	GK 	63,28	65,95	10	9	13	False	Lecce
+Max Barnofsky	23	Germania	51666	D LC	57,39	61,46	13	10	11	False	Carpi
+Michael Agazzi	34	Italia	71543	GK 	60,11	62,78	9	12	13	False	Cremonese
+Michal Marcjanik	23	Polonia	1273656	D C	64,72	69,72	9	13	12	True	Empoli
+Michel Morganella	29	Svizzera,Italia	962368	D/WB RL	61,88	68,44	13	10	13	False	Padova
+Michelangelo Albertazzi	27	Italia	206634	D LC	62,65	73,28	11	12	10	False	Livorno
+Michele Camporese	26	Italia	1337391	D C	67,91	69,48	12	14	13	False	Foggia
+Michele Castagnetti	28	Italia	585037	DM/M C	65,53	67,72	14	13	13	False	Cremonese
+Michele Cavion	23	Italia	613138	M/AM RLC	62,54	65,04	12	11	9	False	Ascoli Picchio
+Michele Fornasier	25	Italia	325049	D C	65,49	71,12	14	11	11	True	Pescara
+Michele Rocca	22	Italia	462880	M C	59,78	64,78	12	12	12	True	Sampdoria
+Michele Troiano	33	Italia	87842	DM/M C	64,36	64,36	11	13	12	False	Ascoli Picchio
+Michele Vano	27	Italia	109940	S 	60,32	66,51	10	11	10	False	Carpi
+Milan Djuric	28	Bosnia-Erzegovina,Italia	855896	S 	68,64	73,9	12	13	14	False	Salernitana
+Mirko Antonucci	19	Italia	1224201	AM RLC	60,08	74,45	10	11	10	True	Roma
+Mirko Bruccini	32	Italia	117827	DM/M RC	61,54	61,54	10	12	11	False	Cosenza
+Mirko Carretta	27	Italia	401914	AM/S RL	60,79	63,29	9	12	13	False	Cremonese
+Mirko Drudi	31	Italia	103164	D RC	61,93	63,15	13	13	11	False	Cittadella
+Moses Odjer	22	Ghana	490783	DM/M C	63,21	70,08	15	14	14	False	Salernitana
+Moussa Sylla	18	Francia,Mali	1454645	AM/S RL	62,91	69,28	10	10	12	False	Atletico Villarosa
+Murilo	23	Brasile,Portogallo	395645	AM/S RL	59,45	61,27	11	11	12	False	Livorno
+Nahuel Valentini	30	Argentina,Italia	183019	D RC	66,16	68,66	18	12	16	False	Ascoli Picchio
+Neal Maupay	22	Francia,Argentina	4565938	S 	68,32	72,69	17	13	17	False	Atletico Villarosa
+Nehuén Paz	25	Argentina,Italia	2293940	D LC	70,13	72,32	14	13	14	True	Bologna
+Niccolò Giannetti	27	Italia	789200	AM/S L	60,3	64,99	13	13	12	True	Cagliari
+Niccolò Zanellato	20	Italia	460895	M C	62,82	73,75	12	13	13	False	Crotone
+Nicholas Pierini	20	Italia,Spagna	383803	AM L	62,59	62,9	10	11	11	True	Sassuolo
+Nicholas Siega	27	Italia	245711	AM L	60,79	62,67	8	13	9	False	Cittadella
+Nico Pulzetti	34	Italia	44237	M C	63,16	63,16	11	13	12	False	Padova
+Nicola Citro	29	Italia	1610210	AM/S RLC	63,15	64,98	12	10	10	True	Frosinone
+Nicola Falasco	25	Italia	501290	D/WB L	58,56	61,99	13	10	13	False	Atletico Villarosa
+Nicola Madonna	31	Italia	154707	D/WB R	59,11	61,65	10	12	13	False	Padova
+Nicola Ravaglia	29	Italia	127774	GK 	59	62,86	9	14	12	False	Cremonese
+Nicola Sambo	22	Italia	19480	GK 	49,61	51,98	9	6	12	False	Carpi
+Nicolao Dumitru	27	Italia,Svezia,Romania	268697	AM/S LC	61,4	66,04	9	12	12	False	Livorno
+Nicolas Haas	22	Svizzera	2243817	DM/M C	64,08	70,33	11	13	13	True	Atalanta
+Nicolás Spolli	35	Argentina,Italia	183841	D C	70,96	70,96	16	15	14	True	Genoa
+Nicolas Viola	29	Italia	3590989	DM/M C	68,21	69,83	10	13	13	False	Benevento
+Nicolò Cherubin	31	Italia	259504	D C	65,96	70,02	13	11	14	False	Padova
+Nicolò Fazzi	23	Italia	818229	D/WB/M RLC	57,78	60,28	11	10	14	True	Atalanta
+Nicolò Manfredini	30	Italia	94862	GK 	59,72	62,99	16	12	12	False	Spezia
+Nikola Ninkovic	23	Serbia	1570692	M/AM LC	63,61	67,36	7	12	13	True	Genoa
+Nikolas Spalek	21	Slovacchia	1150482	M/AM RLC	62,32	68,57	11	13	10	False	Brescia
+Nordin Jackers	21	Belgio	1012186	GK 	58,78	68,27	9	13	13	False	Atletico Villarosa
+Oliver Kragl	28	Germania	1527979	D/WB/M/AM L	66,24	68,43	16	12	13	False	Foggia
+Panagiotis Tachtsidis	27	Grecia	5287224	DM/M C	68,43	71,87	13	14	14	True	Nottingham Forest
+Paolo Bartolomei	29	Italia	1540728	M RC	61,92	63,35	14	11	12	False	Spezia
+Paolo Ghiglione	21	Italia	1504333	D/WB/M R	61,28	67,21	9	12	12	False	Atletico Villarosa
+Pasquale Mazzocchi	23	Italia	502363	D/WB/M/AM R	61,51	65,57	11	12	13	False	Venezia Football Club
+Pawel Dawidowicz	23	Polonia	962726	D/DM/M C	65,7	71,63	14	11	12	True	Benfica
+Pelayo Morilla	17	Spagna	490203	M/AM RLC	59,13	77,26	9	10	9	False	Atletico Villarosa
+Pier Graziano Gori	38	Italia	7265	GK 	51,44	51,44	7	9	10	False	Benevento
+Pierre-Yves Ngawa	26	Belgio	561861	D RC	63,33	64,26	12	15	12	False	Venezia Football Club
+Pietro Ceccaroni	22	Italia	288845	D C	63,63	70,2	11	11	13	True	Spezia
+Pietro Iemmello	26	Italia	2114054	S 	65,87	69,62	11	14	13	True	Benevento
+Pietro Pellegri	17	Italia	1900442	S 	65,22	83,16	9	12	14	False	Atletico Villarosa
+Pietro Perina	26	Italia	138441	GK 	56,94	59,91	10	11	11	False	Cosenza
+Przemyslaw Szyminski	24	Polonia	1134171	D C	65,44	69,19	12	12	12	False	Palermo
+Radoslaw Murawski	24	Polonia	1189460	DM/M C	64,27	68,96	16	12	13	False	Palermo
+Raffaele Bianco	31	Italia	531920	DM C	64,49	65,51	13	12	13	False	Atletico Villarosa
+Raffaele Pucino	27	Italia	516832	D/WB RC	63,22	65,41	13	11	11	False	Salernitana
+Raffaele Schiavi	32	Italia	109477	D C	68,53	69	15	11	15	False	Salernitana
+Raúl Asencio	20	Spagna,Brasile	344332	S 	63,37	71,81	8	14	13	True	Genoa
+Raúl Rodríguez	31	Spagna,Stati Uniti d'America	1783512	D RC	69,2	71,24	12	12	15	False	Atletico Villarosa
+Reda Boultam	20	Olanda,Marocco	153823	M/AM RLC	54,68	56,87	8	10	10	False	Cremonese
+Reno Wilmots	21	Belgio	89624	S 	59,67	67,17	10	14	14	False	Carpi
+Riccardo Brosco	27	Italia	640485	D C	65,49	68,3	12	12	12	False	Ascoli Picchio
+Riccardo Fiamozzi	25	Italia	447757	D/WB R	63,22	69,78	12	12	11	False	Lecce
+Riccardo Idda	29	Italia	112254	D RC	64,05	66,23	14	10	11	False	Cosenza
+Riccardo Improta	24	Italia	1793056	M/AM RL	61,32	65,26	13	10	12	False	Benevento
+Riccardo Maniero	30	Italia	921461	S 	64,82	66,39	9	12	14	True	Novara
+Riccardo Marchizza	20	Italia	1043270	D C	64,51	70,45	13	13	12	True	Sassuolo
+Riccardo Piscitelli	25	Italia	39934	GK 	52,22	59,94	10	11	13	False	Carpi
+Riccardo Serena	22	Italia	82637	M RLC	60,34	66,59	9	11	8	False	Padova
+Robert Mazan	24	Slovacchia	1660768	D L	65,13	69,82	14	13	14	True	Celta Vigo
+Roberto Crivello	27	Italia	808675	D/WB L	63,07	64,94	13	13	14	False	Spezia
+Roberto Insigne	24	Italia	2414734	AM/S RLC	64,02	71,2	9	12	9	True	Napoli
+Roberto Pirrello	22	Italia	640485	D C	66,01	73,19	15	13	10	False	Palermo
+Romano Perticone	32	Italia	177648	D RC	64,46	65,77	14	12	14	False	Salernitana
+Ryan Hiwat	22	Olanda	24380	AM R	50,85	57,15	7	8	8	False	Carpi
+Ryder Matos	25	Brasile,Italia	3459571	AM/S RLC	61,62	63,8	10	11	10	True	Udinese
+Salvatore D'Elia	29	Italia	398692	D/WB L	61,79	63,21	11	12	10	False	Ascoli Picchio
+Salvatore Molina	26	Italia	1579881	M/AM RLC	61,82	62,76	9	11	13	True	Atalanta
+Samuel Di Carmine	30	Italia	4957171	S 	67,74	68,21	8	15	15	False	Verona
+Samuel Gustafson	23	Svezia	1877108	M/AM C	63,16	67,22	12	13	10	True	Torino
+Samuel Mraz	21	Slovacchia	2475683	S RL	63,49	69,25	10	13	11	False	Crotone
+Samuele Longo	26	Italia	4636754	S 	65,89	68,36	13	13	13	True	Inter
+Sandro Tonali	18	Italia	1444777	DM/M C	66,34	76,03	12	10	10	False	Brescia
+Santiago Bellini	22	Uruguay	283259	S 	64,31	69,25	5	12	13	True	Montevideo Wanderers Fútbol Club
+Santiago Colombatto	21	Argentina,Italia	1880968	DM/M C	62,9	68,52	11	13	14	True	Cagliari
+Sauli Väisänen	24	Finlandia	1792940	D LC	67,04	72,04	14	13	13	True	Spal
+Sergiu Suciu	28	Romania,Italia	333181	DM/M RC	63	65,19	11	11	10	False	Venezia Football Club
+Simone Bentivoglio	33	Italia	183383	DM/M C	60,4	60,4	10	10	11	False	Venezia Football Club
+Simone Branca	26	Italia	180746	M C	63,81	65,99	13	13	12	False	Cittadella
+Simone Calvano	25	Italia	717977	DM/M RLC	62,86	65,67	13	13	12	True	Verona
+Simone Colombi	27	Italia	861338	GK 	63,94	68,1	15	12	13	False	Carpi
+Simone Farelli	35	Italia	8809	GK 	51,72	51,72	10	11	8	False	Pescara
+Simone Ganz	25	Italia	363777	S 	60,41	67,08	9	12	10	False	Ascoli Picchio
+Simone Giuliano	21	Italia	46917	D/WB LC	54,76	64,45	14	9	11	False	Palermo
+Simone Lo Faso	20	Italia	811200	AM/S RLC	59,57	68,32	12	13	8	False	Palermo
+Simone Palombi	22	Italia	1094177	S 	62,67	72,57	5	13	11	True	Lazio
+Simone Pasa	24	Italia	178522	D/DM/M C	65,39	70,7	13	11	13	False	Cittadella
+Simone Perilli	23	Italia	236394	GK 	57,44	59,52	9	13	12	False	Carpi
+Simone Romagnoli	28	Italia	2407304	D C	67,5	70,63	12	13	12	True	Empoli
+Simy	26	Nigeria	2772301	S 	69,61	71,78	11	14	13	False	Crotone
+Sinisa Andjelkovic	32	Slovenia	648013	D RC	67,45	68,86	14	12	13	False	Padova
+Slobodan Rajkovic	29	Serbia	1998773	D C	72,5	75	16	14	15	False	Palermo
+Soufiane Bidaoui	28	Marocco,Belgio	351762	AM RL	61,5	64,63	13	10	12	False	Spezia
+Spas Delev	29	Bulgaria	1639233	AM/S RL	59,21	61,85	11	9	12	False	Palermo
+Stefan Bajic	21	Montenegro,Serbia,Italia	24398	D RL	53,84	66,34	9	7	9	False	Cremonese
+Stefano Minelli	24	Italia	670872	GK 	61,17	65,62	12	13	12	False	Padova
+Stefano Moreo	25	Italia	992015	S L	65,63	67,49	13	13	14	False	Palermo
+Stefano Pettinari	26	Italia	811200	S 	62,53	66,55	8	12	8	True	Lecce
+Stefano Russo	29	Italia	45882	GK 	53,83	55,32	9	8	11	False	Salernitana
+Stefano Sabelli	25	Italia	964094	D/WB R	64,82	67,95	14	12	14	False	Brescia
+Stefano Scappini	30	Italia	354274	S 	62,42	63,62	9	13	13	False	Cittadella
+Thom Haye	23	Olanda	308863	DM/M/AM C	61,62	65,37	6	12	12	False	Lecce
+Thomas Vettorel	18	Italia	163909	GK 	55,72	62,25	11	10	11	False	Atletico Villarosa
+Tiago Casasola	23	Argentina,Italia	1953845	D/WB RC	66,42	74,23	10	11	12	True	Lazio
+Tobias Pachonik	23	Germania	718877	D/WB/M R	62,34	65,15	10	12	10	False	Carpi
+Tomasz Kupisz	28	Polonia	630385	AM RLC	59,99	62,8	5	11	11	True	Ascoli Picchio
+Tomislav Gomelt	23	Croazia	363621	DM/M C	59,79	63,23	12	11	12	False	Crotone
+Tommaso Augello	24	Italia	190195	D/WB L	62,27	63,52	6	12	10	False	Spezia
+Tommaso Cancellotti	26	Italia	775865	D/WB R	60,02	62,52	11	13	10	False	Cittadella
+Tommaso D'Orazio	28	Italia	366051	D/WB L	61,89	62,21	9	12	11	False	Cosenza
+Trevor Trevisan	34	Italia	11226	D LC	65,28	65,28	17	11	13	False	Padova
+Umberto Saracco	24	Italia	163977	GK 	59,83	60,43	9	11	10	False	Cosenza
+Valerio Mantovani	22	Italia	605744	D C	63,58	68,27	13	14	13	False	Salernitana
+Vanja Milinkovic-Savic	21	Spagna	1579445	GK 	63	70,71	11	11	12	True	Torino
+Vasile Mogoş	25	Romania	518558	D/WB/M R	62,6	66,35	14	12	13	False	Cremonese
+Vincenzo Fiorillo	28	Italia	859814	GK 	62,67	64,74	11	13	10	False	Pescara
+Vladimir Golemic	27	Serbia,Polonia	774224	D C	67,14	70,89	14	11	15	False	Crotone
+Walter López	33	Uruguay,Spagna	181860	D L	62,19	62,19	14	12	15	False	Salernitana
+Xian Emmers	19	Belgio,Svizzera	651473	M/AM C	62,37	70,49	10	12	12	True	Inter
+Yves Baraye	26	Senegal,Italia	826629	AM LC	60,08	64,14	10	9	10	True	Parma
+Zan Majer	26	Slovenia	423333	M/AM LC	61,94	62,88	12	11	10	False	Lecce
+Zinédine Machach	22	Francia,Algeria,Marocco	1346098	M/AM LC	57,83	65,02	14	12	13	True	Napoli
