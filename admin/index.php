@@ -11,7 +11,8 @@
 			<div class="col">
 				<h1>Aggiorna Database</h1>
 				<hr>
-				<?php  require('./form.php'); ?>
+				<?php  require('./form_textarea.php'); ?>
+				<?php // require('./form.php'); ?>
 				<?php 
 
 				session_start();
