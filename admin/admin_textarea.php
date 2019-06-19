@@ -4,14 +4,14 @@ $currentPwd = '0a9fe7cc173c53cb7c7449a9bedf4512053dca33d219ff2aba6afa759f5bbac27
 $players = $_POST['players'];
 
 
-$homepage = file_get_contents($file['tmp_name']);
+// $homepage = file_get_contents($file['tmp_name']);
 //$password=hash('sha512', 'FmExport2019!');
 $password=hash('sha512', $_POST['token']);
 if($password===$currentPwd){
 
-	$doc = new DOMDocument();
+	// $doc = new DOMDocument();
 
-	$doc->loadHTML($homepage);
+	// $doc->loadHTML($homepage);
 	$dir = '../clubs';
 	$it = new RecursiveDirectoryIterator($dir, RecursiveDirectoryIterator::SKIP_DOTS);
 	$files = new RecursiveIteratorIterator($it,
