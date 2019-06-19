@@ -29,10 +29,11 @@ if($password===$currentPwd){
 
 	foreach ($rows as $player) {
 		$cols = explode("\t", $player);
+		$club = trim($cols[11]);
 		// squadra colonna 5
-		$my_file = '../clubs/'.$cols[5].'.html';
+		$my_file = '../clubs/'.$club.'.html';
 		// nome colonna 0
-		file_put_contents($my_file, $cols[0].' ('.$cols[5].')'.PHP_EOL , FILE_APPEND | LOCK_EX);
+		file_put_contents($my_file, $cols[0].' ('.$club.')'.PHP_EOL , FILE_APPEND | LOCK_EX);
 	}
 
 }else{
