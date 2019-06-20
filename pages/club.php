@@ -17,7 +17,7 @@
 		<thead>
 			<tr>
 				<?php 
-				foreach (array_keys($config['columns']) as $key => $col) {
+				foreach ($config['columns'] as $key => $col) {
 					// if(in_array($key, [7,8,9])) {
 					// 	echo "<th class=\"none\">$col</th>";
 					// } else {

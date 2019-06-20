@@ -64,7 +64,12 @@
     </script>
 
     <script type="text/javascript" charset="utf-8">
-    	var skillsCols = [ 7,8,9 ];
+    	var skillsCols = [];
+    	for (var i = 7; i <= 44; i++) {
+    		skillsCols.push(i);
+    	}
+    	console.log(skillsCols);
+
     	var language = {
 		            "lengthMenu": "Mostro _MENU_ righe per pagina",
 		            "zeroRecords": "Nessun risultato",

@@ -34,7 +34,7 @@ if($password===$currentPwd){
 		$cols = explode("\t", $player);
 		if(!$cols || empty($cols) || !isset($cols[1]) || $cols[0] == ' ' || $cols[0] == '') continue;
 
-		$club = trim($cols[$config['columns']['Club']]);
+		$club = trim($cols[array_search('Club', $config['columns'])]);
 		// squadra colonna 5
 		$my_file = '../clubs/'.$club.'.html';
 
