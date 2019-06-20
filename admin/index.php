@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Document</title>
+	<title>Progetto FM - Admin</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 </head>
 <body>
@@ -11,9 +11,31 @@
 			<div class="col">
 				<h1>Aggiorna Database</h1>
 				<hr>
-				<?php  require('./form_textarea.php'); ?>
+				<?php  // require('./form_textarea.php'); ?>
 				<?php // require('./form.php'); ?>
 				<?php 
+
+				$uri_path = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
+				$uri_segments = explode('/', $uri_path);
+
+					// die(var_dump($uri_segments[1] == ''));
+
+				switch ($uri_segments[2]) {
+
+					case 'players':
+						require('./form_players.php');
+						break;
+
+					case 'leaderboards':
+						require('./form_leaderboards.php');
+						break;
+
+					default:
+						var_dump($uri_segments[2]);
+						require('../404.php');
+						break;
+
+				}
 
 				session_start();
 				if(!empty($_SESSION['message'])) {

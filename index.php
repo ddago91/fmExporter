@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Document</title>
+	<title>Progetto FM</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
 	<link rel="stylesheet" href="https://cdn.datatables.net/1.10.18/css/dataTables.bootstrap4.min.css">
@@ -24,7 +24,7 @@
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
 			<ul class="navbar-nav mr-auto">
 				<li class="nav-item dropdown">
-					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 						Squadre
 					</a>
 					<div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -36,7 +36,7 @@
 					</div>
 				</li>
 				<li class="nav-item dropdown">
-					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 						Calendario
 					</a>
 					<div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -48,7 +48,7 @@
 					</div>
 				</li>
 				<li class="nav-item dropdown">
-					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 						Classifiche
 					</a>
 					<div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -58,6 +58,11 @@
 						<a class="dropdown-item" href="#">Serie C/B</a>
 						<a class="dropdown-item" href="#">Serie C/C</a>
 					</div>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="/search" aria-haspopup="true" aria-expanded="false">
+						Ricerca giocatori
+					</a>
 				</li>
 			</ul>
 		</div>
@@ -76,21 +81,29 @@
 
 				switch ($uri_segments[1]) {
 					case '':
-					require('home.php');
-					break;
+						require('home.php');
+						break;
+
+					case 'division':
+						require('pages/division.php');
+						break;
 
 					case 'club':
-					require('pages/club.php');
-					break;
+						require('pages/club.php');
+						break;
 
 					case 'player':
-					require('pages/player.php');
-					break;
+						require('pages/player.php');
+						break;
+
+					case 'search':
+						require('pages/search.php');
+						break;
 
 					default:
-					var_dump($uri_segments[1]);
-					require('404.php');
-					break;
+						var_dump($uri_segments[1]);
+						require('404.php');
+						break;
 				}
 				?>
 			</div>
@@ -119,15 +132,14 @@
 
     <script type="text/javascript" charset="utf-8">
     	var skillsCols = [];
-    	for (var i = 7; i <= 44; i++) {
+    	for (var i = 8; i <= 45; i++) {
     		skillsCols.push(i);
     	}
-    	console.log(skillsCols);
 
     	var language = {
     		"lengthMenu": "Mostro _MENU_ righe per pagina",
     		"zeroRecords": "Nessun risultato",
-    		"info": "Mostro la pagina _PAGE_ of _PAGES_",
+    		"info": "Pagina _PAGE_ di _PAGES_",
     		"infoEmpty": "Nessun risultato disponibile",
     		"infoFiltered": "(filtrato da _MAX_ righe totali)",
 
@@ -183,6 +195,48 @@
 		     //            "searchable": false
 		     //        }
 		     //    ],
+		    	// buttons: [
+		     //        {
+		     //            extend: 'colvisGroup',
+		     //            text: 'Nascondo Skills',
+		     //            show: [  ],
+		     //            hide: skillsCols
+		     //        },
+		     //        {
+		     //            extend: 'colvisGroup',
+		     //            text: 'Mostro Skills',
+		     //            show: skillsCols,
+		     //            hide: [  ]
+		     //        },
+		     //    ],
+		     "language": language
+		 });
+    		// Setup - add a text input to each footer cell
+		    $('#searchTable thead tr').clone(true).appendTo( '#searchTable thead' );
+		    $('#searchTable thead tr:eq(1) th').each( function (i) {
+		        var title = $(this).text();
+		        $(this).html( '<input type="text" placeholder="Cerca '+title+'" />' );
+		 
+		        $( 'input', this ).on( 'keyup change', function () {
+		            if ( searchTable.column(i).search() !== this.value ) {
+		                searchTable
+		                    .column(i)
+		                    .search( this.value )
+		                    .draw();
+		            }
+		        } );
+		    } );
+    		var searchTable = $('#searchTable').DataTable({
+    			orderCellsTop: true,
+        		fixedHeader: true,
+		    	// dom: 'Bfrtip',
+		    	"columnDefs": [
+		    	{
+		    		"targets": skillsCols,
+		    		"visible": false,
+		    		"searchable": true
+		    	}
+		    	],
 		    	// buttons: [
 		     //        {
 		     //            extend: 'colvisGroup',

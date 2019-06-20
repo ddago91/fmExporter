@@ -7,6 +7,7 @@ $config['columns'] = [
 	"PA",
 	"Nazione",
 	"Club",
+	"Divisione",
 	"Ruolo",
 	"Corner",
 	"Cross",
@@ -55,5 +56,6 @@ $config['exclude_from_player'] = [
 	"PA",
 	"Nazione",
 	"Club",
+	"Divisione",
 	"Ruolo",
 ];

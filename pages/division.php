@@ -1,6 +1,6 @@
 <?php 
 
-	$club_name = urldecode($uri_segments[2]);
+	$division_name = urldecode($uri_segments[2]);
 	$club = file_get_contents('./database/'.$club_name.'.html');
 
 	// se non esiste club name reindirizzo alla home

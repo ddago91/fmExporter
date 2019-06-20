@@ -1,7 +1,7 @@
 <?php 
 
 	$club_name = urldecode($uri_segments[2]);
-	$club = file_get_contents('./clubs/'.$club_name.'.html');
+	$club = file_get_contents('./database/'.$club_name.'.html');
 
 	// prendo giocatore filtrando per nome e età
 	$player_name = urldecode($uri_segments[3]);
