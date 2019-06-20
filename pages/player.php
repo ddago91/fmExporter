@@ -33,12 +33,12 @@
 	// die(var_dump($player));
 
 ?>
-<h1>
+<h1 class="player-title my-5">
 	<?php echo '<a href="/club/'.$club_name.'">'.$club_name.'</a> - '.$player_name; ?>
 </h1>
 <div class="row">
-	<div class="col-auto">
-		<div class="card m-auto" style="width: 18rem;">
+	<div class="col-auto ">
+		<div class="card m-auto player-card" style="width: 18rem;">
 			<div class="card-body">
 				<h5 class="card-title"><?php echo $player_name; ?></h5>
 				<h6 class="card-subtitle mb-2 text-muted">Ruolo: <i><?php echo $player['Ruolo']; ?></i></h6>
@@ -51,7 +51,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="col" style="column-count: 3; column-gap: 1em;">
+	<div class="col player-card" style="column-count: 3; column-gap: 1em;">
 		<?php 
 		foreach ($player as $skill_name => $skill_value) {
 

@@ -1,0 +1,25 @@
+  
+.player-card{
+	background-color: #321450;
+	color: aliceblue;
+	border-radius: 5px;
+	padding: 20px;
+}
+
+.player-title{
+	color: #fff;
+}
+
+body{
+	height: 100vh;
+	background-image: url("background_player.svg");
+}  
+
+.bg-transparent{
+	background-color: transparent;
+    border-bottom: 2px solid #fff;
+}
+
+.navbar-light .navbar-nav .nav-link{
+	color:#fff;
+}
